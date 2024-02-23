@@ -120,3 +120,5 @@ dist
 # ClearVision build & test files
 public/
 test/
+scripts/
+addons/
